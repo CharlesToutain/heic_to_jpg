@@ -1,0 +1,3 @@
+([('convert_heic_to_jpg',
+   '/Users/charles-edouardtoutain/Desktop/SCRIPT/dist/convert_heic_to_jpg',
+   'EXECUTABLE')],)
