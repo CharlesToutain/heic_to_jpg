@@ -1,0 +1,12 @@
+# Environnements virtuels
+venv/
+__pycache__/
+
+# Fichiers spécifiques à l'IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Fichiers de configuration de l'environnement
+.env
